@@ -19,7 +19,7 @@ namespace Lab3._1
                 int dayNum = int.Parse(line);
 
                 int monthNum = 0;
-                var daysInMonths = new List<int> { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 } ;
+                var daysInMonths = new List<int> { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
                 foreach (int daysInMonth in daysInMonths)
                 {
                     if (dayNum <= daysInMonth)
