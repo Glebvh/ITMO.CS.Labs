@@ -20,7 +20,8 @@ namespace Lab2._2
             BankAccount goldAccount;
             goldAccount.accType = AccountType.Checking;
             goldAccount.accBal = (decimal)3200.00;
-            goldAccount.accNo = 123;
+            Console.Write("Enter account number: ");
+            goldAccount.accNo = long.Parse(Console.ReadLine());
 
             Console.WriteLine("*** Account summary ***");
             Console.WriteLine("Acct number {0}", goldAccount.accNo);
