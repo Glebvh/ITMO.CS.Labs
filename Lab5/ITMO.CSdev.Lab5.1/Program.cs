@@ -25,8 +25,9 @@ namespace ITMO.CSdev.LabFive
             //{
             //    Console.Write(ch);
             //}
-            reader.Close();
             Summ(contents);
+            reader.Close();
+            
         }
         static void Summ(char[] contents)
         {

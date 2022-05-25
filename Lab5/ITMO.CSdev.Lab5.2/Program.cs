@@ -34,12 +34,6 @@ namespace ITMO.CSdev.LabFive.second
                     result[r, c] = a[r, 0] * b[0, c] + a[r, 1] * b[1, c];
                 }
             }
-
-
-            //result[0, 0] = a[0, 0] * b[0, 0] + a[0, 1] * b[1, 0];
-            //result[0, 1] = a[0, 0] * b[0, 1] + a[0, 1] * b[1, 1];
-            //result[1, 0] = a[1, 0] * b[0, 0] + a[1, 1] * b[1, 0];
-            //result[1, 1] = a[1, 0] * b[0, 1] + a[1, 1] * b[1, 1];
             output(result);
             return result;
 
