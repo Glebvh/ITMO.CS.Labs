@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSdev.Lab7.1", "ITMO.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.Labs.Lab7.2", "ITMO.CSdev.Lab7\ITMO.CS.Labs.Lab7.2\ITMO.CS.Labs.Lab7.2.csproj", "{67F9F8A7-C973-42B0-A638-026E62C87DF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSdev.Lab8.1", "ITMO.CSdev.Lab8\ITMO.CSdev.Lab8.1\ITMO.CSdev.Lab8.1.csproj", "{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,14 @@ Global
 		{67F9F8A7-C973-42B0-A638-026E62C87DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67F9F8A7-C973-42B0-A638-026E62C87DF6}.Release|x86.ActiveCfg = Release|Any CPU
 		{67F9F8A7-C973-42B0-A638-026E62C87DF6}.Release|x86.Build.0 = Release|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE97C724-A0BB-4A2A-9F77-2273C2B4224C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
