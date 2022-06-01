@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSdev.Lab8.1", "ITMO.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSdev.Lab8.2", "ITMO.CSdev.Lab8\ITMO.CSdev.Lab8.2\ITMO.CSdev.Lab8.2.csproj", "{7DB4546E-8581-472B-B54C-A36258FD069C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CS.Labs.Lab9.COLORTOKENISER", "ITMO.CSdev.Lab9\ITMO.CSdev.Lab9.1\ITMO.CS.Labs.Lab9.COLORTOKENISER.csproj", "{E90F222B-6077-40A5-80AD-A200D1FDCF78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +163,14 @@ Global
 		{7DB4546E-8581-472B-B54C-A36258FD069C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7DB4546E-8581-472B-B54C-A36258FD069C}.Release|x86.ActiveCfg = Release|Any CPU
 		{7DB4546E-8581-472B-B54C-A36258FD069C}.Release|x86.Build.0 = Release|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Debug|x86.Build.0 = Debug|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Release|x86.ActiveCfg = Release|Any CPU
+		{E90F222B-6077-40A5-80AD-A200D1FDCF78}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

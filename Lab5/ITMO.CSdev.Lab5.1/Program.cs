@@ -11,7 +11,7 @@ namespace ITMO.CSdev.LabFive
     {
         static void Main(string[] args)
         {
-            /////////////// не работает  
+              
             string fileName = args[0];
             FileStream stream = new FileStream(fileName, FileMode.Open);
             StreamReader reader = new StreamReader(stream);
